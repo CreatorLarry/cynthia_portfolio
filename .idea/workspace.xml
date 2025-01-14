@@ -4,32 +4,71 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc00612f-19bd-4453-85c2-06dcc606d58a" name="Changes" comment="" />
+    <list default="true" id="cc00612f-19bd-4453-85c2-06dcc606d58a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images/project_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/project_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/project_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/project_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/project_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/project_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/project_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/project_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/project_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/project_9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CreatorLarry&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:CreatorLarry/cynthia_portfolio.git&quot;,
+    &quot;accountId&quot;: &quot;409726a6-1946-4367-8c82-b8838d5e5c17&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2rMTBseqt3LQ7ZA1peqdWymmhMw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Creator_Larry/OneDrive/Desktop/cynthia_portfolio&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Creator_Larry/OneDrive/Desktop/Portfolios/cynthia_portfolio/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Creator_Larry\OneDrive\Desktop\Portfolios\cynthia_portfolio\images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -50,6 +89,8 @@
       <workItem from="1736368407071" duration="4818000" />
       <workItem from="1736406479501" duration="604000" />
       <workItem from="1736453671654" duration="320000" />
+      <workItem from="1736582349307" duration="21312000" />
+      <workItem from="1736876818289" duration="2204000" />
     </task>
     <servers />
   </component>
